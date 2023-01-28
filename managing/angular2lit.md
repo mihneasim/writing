@@ -13,14 +13,17 @@ invented it, or somebody else on my team. Best not to assume credit).
 
 Let's start with the most important definition of teh day.
 
-> ##deangularize
+> **deangularize**
+
   /dɪˈaŋɡjʊlərʌɪz/
+
   1. to rewrite a JavaScript module (file) that has a dependency on AngularJS (i.e. a
      directive, a service, a `$controller` of some sort, or any piece of
      functionality that used dependency injection, the `$inject`) in a way that no trace of
      Angularjs can be found in the new module (file), whilst preserving the
      previous functional and non functional requirements. And by that, I mean
      unit-tests too.
+
 
 I hope Ray wouldn't mind quoting him in that podcast:
 
@@ -70,6 +73,13 @@ individual to step aside from the delivery spree without affecting the business.
 It goes without saying the migration work should be captured in backlog, but the
 key idea here is **The appointed engineer should have focus to come up with the
 migration implementation plan**.
+
+For me, it was easier to secure this environment in the recruitment phase.
+Since the individual was by any mean a new joiner, there were no past activities to close down or to hand over.
+I made sure to make it transparent to the Product (to the Tribe Lead) that we want
+to onboard the next new engineer specifically for the migration kick-off. The
+candidate showed strong proficiency, so it really made sense to offer him
+a matching opportunity.
 
 ## 3. Remove non-engineering impediments
 
