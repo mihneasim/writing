@@ -2,6 +2,10 @@
 
 I've watched Will Sentance's class JavaScript, The Hard Parts v2, and I liked it - without knowing who he is and how much experience he invested in teaching - I didn't only like it as a virtual participant, but especially as a lead and a trainer wannabe. I would like one day to be able to replicate, in my own style, of course, some of his strategies.
 
+Will is CEO of [codesmith.io](https://www.codesmith.io), a *top-ranked coding
+school, online and in NYC*. That's the bit I didn't know about, when I came up
+with the idea of documenting his class.
+
 ![Will Sentance explaining code on a blackboard](./js-hard-parts-v2.jpg)
 
 ## How I stumbled upon JavaScript: The Hard Parts v2 class
