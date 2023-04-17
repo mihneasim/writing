@@ -1,6 +1,6 @@
 # Will's JS class
 
-I've watched Will Sentance's class JavaScript, The Hard Parts v2, and I liked it - without knowing who he is and how much experience he invested in teaching - I didn't only like it as a student, but especially as a lead and a trainer wannabe. I would like one day to be able to replicate, in my own style, of course, some of his strategies.
+I've watched Will Sentance's class JavaScript, The Hard Parts v2, and I liked it - without knowing who he is and how much experience he invested in teaching - I didn't only like it as a virtual participant, but especially as a lead and a trainer wannabe. I would like one day to be able to replicate, in my own style, of course, some of his strategies.
 
 ![Will Sentance explaining code on a blackboard](./js-hard-parts-v2.jpg)
 
@@ -19,7 +19,7 @@ Just after Christmas of '22, I had some spare time and gave it a shot. I went th
 I studied Will, I decomposed his style, his setup, and his props, and I reverse-engineered his recipe to three key advantages:
 
 1. Distraction-free teaching "props"
-1. Live audience - Real-life students
+1. Live audience - In-person participants
 1. Smart use of creativity
 
 ## Distraction-free teaching props
@@ -29,10 +29,11 @@ any digital means. He's not typing code, he's writing it, by hand. The represent
 limit themselves to basics: global scope, local scope, and execution stack. When
 needed, a slide with code pops up.
 
-## Live audience - Real-life students
+## Live audience - In-person participants
 
-Will is not recording himself teaching the class to a camera, or to a virtual student.
-He has actual students sitting and learning physically in the same room. They don't appear in the footage, maybe just rarely when one is "called to the blackboard". You get to be an actual spectator to the learning activities taking part between Will and his students. I've seen this before and it's highly beneficial:
+Will is not recording himself teaching the class to a camera, or to a virtual
+participant.
+He has actual participants sitting and learning physically in the same room. They don't appear in the footage, maybe just rarely when one is "called to the blackboard". You get to be an actual spectator to the learning activities taking part between Will and his trainees. I've seen this before and it's highly beneficial:
  - you get a sense of what is expected to understand or to have trouble with, in each moment, because the real people in the class will articulate that. You will *feel* what they feel. You will share their silence when some concept needs time *to sink in*.
  - it's auto-paced by the audience. The trainer will adjust speed and level according to a tight, real-time feedback loop with the audience. Will stops after every milestone, to ask how much they understand:
    * thumb up = I got it, move on
@@ -57,7 +58,7 @@ that gets carried by a function that's returned as a value.
 
 But some stand out. And by no accident, with solid experience in his backpack, Will Sentance is a model for the teacher in me.
 I wouldn't rush out the door, into buying and installing a blackboard. It's not about techniques one can copy.
-It's about having the teaching act in the centre, with a spotlight on the main actor -
-the student, not the teacher. Whenever you're building a new product, all decisions revolve around
+It's about having the act of teaching in the centre, with a spotlight on the main actor -
+the trainee, not the trainer. Whenever you're building a new product, all decisions revolve around
 the potential customer. If you look at teaching as a product, then yes, you have
-to put the students first, preferably in the same room with you.
+to put the participants first, preferably in-person, in the same room with you.
