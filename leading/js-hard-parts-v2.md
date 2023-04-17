@@ -2,7 +2,7 @@
 
 I've watched Will Sentance's class JavaScript, The Hard Parts v2, and I liked it - without knowing who he is and how much experience he invested in teaching - I didn't only like it as a student, but especially as a lead and a trainer wannabe. I would like one day to be able to replicate, in my own style, of course, some of his strategies.
 
-![Will Sentance explaining code on a blackboard](./js-hard-parts.jpg)
+![Will Sentance explaining code on a blackboard](./js-hard-parts-v2.jpg)
 
 ## How I ran into the class
 
